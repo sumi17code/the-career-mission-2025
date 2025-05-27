@@ -1,0 +1,100 @@
+
+/* this is banner section  */
+
+.main-container{
+    margin: 0;
+    padding: 0;
+    height:100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom,#e6e6fa, #b8e7fa);
+}
+
+/* .banner-container{
+    text-align: center;
+
+    padding-top: 40px;
+} */
+
+#box-1{
+    background-color: white;
+    /* max-width: fit-content; */
+    border: 1px solid white;
+    margin: 0px 350px;
+    border-radius: 15px;
+    
+    
+   
+   
+
+}
+.banner-first{
+    text-align: center;
+    padding: 50px 60px 20px 60px;
+   
+    
+   
+
+}
+.banner-image img{
+    height: 150px;
+}
+#hope{
+    font-family: "Poppins" sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 35px;
+}
+.banner-first p{
+    font-size: 10px;
+    font-weight: lighter;
+}
+
+
+.banner-content{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.banner-content h3{
+    font-size: 40px;
+}
+
+#box-2{
+    border: 1px solid white;
+    border-radius: 15px;
+    margin: 80px 350px;
+    background-color:white;
+}
+#banner-second{
+    margin-top: 80px;
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 40px;
+    
+
+}
+
+#image img{
+    height: 200px;
+}
+
+
+.inspiration-blog{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.inspiration-blog h1{
+    font-size:40px;
+    font-weight: 800;
+}
+
+
+.mission img{
+    height: 300px;
+    width: 600px;
+    margin-top: 20px;
+    padding: 0px 460px;
+    
+}

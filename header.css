@@ -1,0 +1,41 @@
+
+/* here header section start  */
+
+
+
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 80px;
+    
+}
+
+.nav-bar-logo {
+    font-family: "Poppins", sans-serif;
+   font-weight:800px;
+   font-size: 18px;
+   font-style: normal;
+
+}
+.nav-bar-logo span{
+    color: #ffa500;
+
+}
+
+button{
+    text-align: center;
+    border: none;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+   background-image: linear-gradient(to right, #ffa500, #ffd447);
+   padding: 10px;
+   border-radius: 10px;
+   box-shadow: 0px 2px lightblue;
+   
+  
+   
+}
+
+
