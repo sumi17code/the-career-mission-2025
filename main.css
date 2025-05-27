@@ -98,3 +98,12 @@
     padding: 0px 460px;
     
 }
+
+.target-content{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.target-content h1{
+    font-size: 30px;
+}
